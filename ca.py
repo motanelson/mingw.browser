@@ -1,5 +1,5 @@
 import copy
-print("\033[47;31m\n\ngive me the list file")
+print("\033[47;30m\n\ngive me the list file")
 a=input().strip()
 f1=open(a,"r")
 b=f1.read()
